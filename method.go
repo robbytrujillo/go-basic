@@ -1,3 +1,4 @@
+// Analogi method
 func (r ReceiverType) namaMethod() {
     // isi fungsi
 }
